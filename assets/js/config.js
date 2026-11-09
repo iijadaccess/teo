@@ -8,10 +8,10 @@ window.TEO_CONFIG = {
   brand: "Teo",
 
   // كود السيرفر (يُستخدم في VAR و NEXT+)
-  serverCode: "teo",
+  serverCode: "hevn",
 
   // كود التفعيل لتطبيق 0PLAYER (خانة Code في Portal Code)
-  portalCode: "teo",
+  portalCode: "89833380",
 
   // رقم الواتساب بالصيغة الدولية بدون + أو مسافات
   whatsapp: "966543902450",
